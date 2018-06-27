@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Projeto Pitang</string>
+    <string name="compartilhar">Compartilhar</string>
+    <string name="favoritos">Adicionar aos favoritos</string>
+    <string name="lancamento">Lançamento:</string>
+    <string name="detalhes_filme">Detalhes do Filme</string>
+
+    <string name="linguagem">pt-BR</string>
+</resources>

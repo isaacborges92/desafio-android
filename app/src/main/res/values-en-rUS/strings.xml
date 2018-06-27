@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Projeto Pitang</string>
+    <string name="compartilhar">Share</string>
+    <string name="favoritos">Favorite</string>
+    <string name="lancamento">Release Date:</string>
+    <string name="detalhes_filme">Movie Details</string>
+
+    <string name="linguagem">en-US</string>
+</resources>
